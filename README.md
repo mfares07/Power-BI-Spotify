@@ -27,6 +27,5 @@ Para llevar a cabo este análisis, se utilizaron las siguientes herramientas y t
 
 ## Visualización
 
-- **Visualización en PDF**: [Descargar Informe Detallado](ruta/del/informe.pdf)
+- **Ver en PDF**: [Ver ](https://github.com/mfares07/Power-BI-Spotify/blob/main/SpotifyPBI.pdf)
 
-- 
